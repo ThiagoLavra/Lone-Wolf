@@ -1,1 +1,3 @@
-# Lone-Wolf 
+### Lone-Wolf 
+
+`Se for utilizar deixe os créditos.`

@@ -29,9 +29,9 @@ $ npm install @adiwajshing/baileys -no-bin-links
 ```
 ------------
 ## Windows
-* Baixe e instale o Git [`Site`](https://git-scm.com/downloads)
-* Baixe e instale o Nodejs [`Site`](https://nodejs.org/en/download)
-* Baixe e instale o FFmpeg [`Site`](https://ffmpeg.org/download.html)
+* Baixe e instale o Git:  [`Site`](https://git-scm.com/downloads)
+* Baixe e instale o Nodejs:  [`Site`](https://nodejs.org/en/)
+* Baixe e instale o FFmpeg:  [`Site`](https://ffmpeg.org/download.html)
 ```shell
 git clone https://github.com/ThiagoLavra/Lone-Wolf
 cd Lone-Wolf
